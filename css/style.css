@@ -1,0 +1,59 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin: 0 auto;
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+body{
+    background-color: rgb(88, 166, 138);
+    font-family:'Poiret One', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+section{
+    text-align: center;
+    padding: 100px;
+}
+
+#results{
+    text-align: center;
+    margin-top: -100px;
+}
+/* #results > img{
+    border: groove 10px white;
+} */
+
+#results > img {
+    display: block;
+    margin: 0 auto;
+}
+
+.show-border{
+    border: groove 10px white;
+}
+
+button{
+    border-radius: 50px;
+    height: 30px;
+    width: 30px;
+}
+
+input{
+    padding: 5px;
+    border-radius: 20px;
+}
