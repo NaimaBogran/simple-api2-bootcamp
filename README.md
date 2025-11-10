@@ -7,7 +7,7 @@
 
 ---
 
-<img width="779" height="724" alt="image" src="himg/readme-img" />
+<img width="779" height="724" alt="image" src="himg/readme-img.png" />
 
 
 ## ✨ Features
