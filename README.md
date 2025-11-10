@@ -1,7 +1,21 @@
 # 📊 Project: Simple API 2
+# Inspirational Quotes
 
-### Goal: Display data returned from an api
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-This project is a motivational app that randomizes advice and image for a number.
+**🎮 Live Demo:** [https://naimabogran.github.io/simple-api2-bootcamp/](https://naimabogran.github.io/simple-api2-bootcamp/)
 
-data stored in an API where the advice is located
+---
+
+<img width="779" height="724" alt="image" src="himg/readme-img" />
+
+
+## ✨ Features
+
+* **Responsive Design:** A clean, mobile-first design that looks great on any device, from phones to desktops.
+
+## 🛠️ Tech Stack
+
+* **Frontend:** HTML5, CSS3, Vanilla JavaScript (ES6+)
+* **Core Concepts:** DOM Manipulation, Advanced Event Handling (Event Delegation), and Client-Side State Management.
+* **Deployment:** Git Pages
